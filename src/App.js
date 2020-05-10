@@ -3,6 +3,9 @@ import PostList from "./component/PostList";
 import Pagination from "./component/Pagination";
 import queryString from 'query-string';
 import PostFilterForm from "./component/PostFilterForm";
+import Clock from "./component/Clock";
+import Button from "@material-ui/core/Button";
+import ColorChange from "./component/ColorChange";
 
 
 //Router Hook
@@ -26,6 +29,10 @@ import PostFilterForm from "./component/PostFilterForm";
 
 function App() {
     const [posts, setPosts] = useState([]);
+
+    const [showClock, setShowClock] = useState(true)
+
+    const [showColorChange, setShowColorChange] = useState(true)
 
     const [pagination, setPagination] = useState({
         _limit: 10,
@@ -53,7 +60,6 @@ function App() {
     useEffect(() => {
         const paramsString = queryString.stringify(filters);
         let url = `http://js-post-api.herokuapp.com/api/posts?${paramsString}`;
-        console.log(url)
 
         const getPosts = async () => {
             const response = await fetch(url);
@@ -88,9 +94,17 @@ function App() {
 
         <div className="mt-5">
             <h3 className="middle">React Hooks Basic</h3>
+            <div className="middle">
+                <Button onClick={() => setShowClock(!showClock)}>{showClock ? 'Hide' : 'Show'}</Button>
+                {showClock && <Clock/>}
+            </div>
             <PostFilterForm onFilterChange={onHandleFilterChange}/>
             <PostList posts={posts}/>
             <Pagination pagination={pagination} onPageChange={onHandlePageChange}/>
+            <div className="middle">
+                <Button onClick={() => setShowColorChange(!showColorChange)}>{showColorChange ? 'Hide' : 'Show'}</Button>
+                {showColorChange && <ColorChange/>}
+            </div>
         </div>
     );
 }

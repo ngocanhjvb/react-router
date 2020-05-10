@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526d13ac-b2b4-44bb-8e71-bc3986ff64a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/component/Clock/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customHook/useClock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bfSZgIUY4alVrz49PuodVmJB74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526d13ac-b2b4-44bb-8e71-bc3986ff64a5" name="Default Changelist" comment="" />
+      <created>1589021711718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589021711718</updated>
+      <workItem from="1589021713718" duration="4865000" />
+      <workItem from="1589078187403" duration="5999000" />
+      <workItem from="1589092634051" duration="20000" />
+      <workItem from="1589092679647" duration="575000" />
+      <workItem from="1589095138205" duration="7484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog" timestamp="1589101542417">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1589101542417" />
+    <state x="654" y="253" key="run.anything.popup" timestamp="1589080964973">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="654" y="253" key="run.anything.popup/61.27.1859.1053@61.27.1859.1053" timestamp="1589080964973" />
+    <state x="653" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589102800856">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="653" y="257" width="672" height="678" key="search.everywhere.popup/61.27.1859.1053@61.27.1859.1053" timestamp="1589102800856" />
+  </component>
+</project>
