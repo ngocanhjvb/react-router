@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526d13ac-b2b4-44bb-8e71-bc3986ff64a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/Clock/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customHook/useClock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ReactMemo/Child.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ReactMemo/Father.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -58,6 +60,9 @@
       <workItem from="1589092634051" duration="20000" />
       <workItem from="1589092679647" duration="575000" />
       <workItem from="1589095138205" duration="7484000" />
+      <workItem from="1589107355136" duration="2600000" />
+      <workItem from="1589113287537" duration="1694000" />
+      <workItem from="1589117720877" duration="1341000" />
     </task>
     <servers />
   </component>
@@ -65,10 +70,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog" timestamp="1589101542417">
+    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog" timestamp="1589113308388">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
-    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1589101542417" />
+    <state x="789" y="236" width="392" height="633" key="RollbackChangesDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1589113308388" />
     <state x="654" y="253" key="run.anything.popup" timestamp="1589080964973">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>

@@ -6,6 +6,7 @@ import PostFilterForm from "./component/PostFilterForm";
 import Clock from "./component/Clock";
 import Button from "@material-ui/core/Button";
 import ColorChange from "./component/ColorChange";
+import Father from "./component/ReactMemo/Father";
 
 
 //Router Hook
@@ -104,6 +105,9 @@ function App() {
             <div className="middle">
                 <Button onClick={() => setShowColorChange(!showColorChange)}>{showColorChange ? 'Hide' : 'Show'}</Button>
                 {showColorChange && <ColorChange/>}
+            </div>
+            <div className="middle">
+               <Father/>
             </div>
         </div>
     );
