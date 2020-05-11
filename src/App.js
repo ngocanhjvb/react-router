@@ -95,22 +95,22 @@ function App() {
         // </Router>
 
         <div className="mt-5">
-            <h3 className="middle">React Hooks Basic</h3>
-            <div className="middle">
-                <Button onClick={() => setShowClock(!showClock)}>{showClock ? 'Hide' : 'Show'}</Button>
-                {showClock && <Clock/>}
-            </div>
-            <PostFilterForm onFilterChange={onHandleFilterChange}/>
-            <PostList posts={posts}/>
-            <Pagination pagination={pagination} onPageChange={onHandlePageChange}/>
-            <div className="middle">
-                <Button onClick={() => setShowColorChange(!showColorChange)}>{showColorChange ? 'Hide' : 'Show'}</Button>
-                {showColorChange && <ColorChange/>}
-            </div>
-            <div className="middle">
-               <Father/>
-            </div>
-            <hr/>
+            {/*<h3 className="middle">React Hooks Basic</h3>*/}
+            {/*<div className="middle">*/}
+            {/*    <Button onClick={() => setShowClock(!showClock)}>{showClock ? 'Hide' : 'Show'}</Button>*/}
+            {/*    {showClock && <Clock/>}*/}
+            {/*</div>*/}
+            {/*<PostFilterForm onFilterChange={onHandleFilterChange}/>*/}
+            {/*<PostList posts={posts}/>*/}
+            {/*<Pagination pagination={pagination} onPageChange={onHandlePageChange}/>*/}
+            {/*<div className="middle">*/}
+            {/*    <Button onClick={() => setShowColorChange(!showColorChange)}>{showColorChange ? 'Hide' : 'Show'}</Button>*/}
+            {/*    {showColorChange && <ColorChange/>}*/}
+            {/*</div>*/}
+            {/*<div className="middle">*/}
+            {/*   <Father/>*/}
+            {/*</div>*/}
+            {/*<hr/>*/}
             <div className="middle">
                 <HomePage/>
             </div>
