@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/fz3temp-2/BatchController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/fz3temp-2/CusController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/kddi-au-denki-kompas-migration-web/adminpage/bin/config/local/params.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/kddi-au-denki-kompas-migration-web/adminpage/lib/http/controllers/CusController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/kddi-au-denki-kompas-migration-web/adminpage/lib/http/controllers/SaController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../react-multi-auth/YOUTUBE-REACT-MULTIAUTH/src/store/actions/Admin/Auth/AuthActions.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/App.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/action/hobby.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/component/Home/HobbyList/index.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/page/HomePage.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/reducers/hobbyReducer.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/reducers/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/store.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../redux-cart/src/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

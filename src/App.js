@@ -7,6 +7,7 @@ import Clock from "./component/Clock";
 import Button from "@material-ui/core/Button";
 import ColorChange from "./component/ColorChange";
 import Father from "./component/ReactMemo/Father";
+import HomePage from "./page/HomePage";
 
 
 //Router Hook
@@ -108,6 +109,10 @@ function App() {
             </div>
             <div className="middle">
                <Father/>
+            </div>
+            <hr/>
+            <div className="middle">
+                <HomePage/>
             </div>
         </div>
     );
